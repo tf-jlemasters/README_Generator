@@ -26,6 +26,11 @@ const questions = [ {
 },
 {
     type: "input",
+    name: "screenshot"
+    message: "Provide screenshot link of finished project"
+},
+{
+    type: "input",
     name: "licence",
     message: "Provide the project licence"
 },
