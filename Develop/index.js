@@ -24,25 +24,21 @@ const questions = [ {
     name: "usage",
     message: "Provide the project usage"
 },
-{
-    type: "input",
-    name: "screenshot"
-    message: "Provide screenshot link of finished project"
-},
+
 {
     type: "input",
     name: "licence",
     message: "Provide the project licence"
 },
 {
-type: "input",
-name: "contributing",
-message: "Please list all of those that contributed"
+    type: "input",
+    name: "contributing",
+    message: "Please list all of those that contributed"
 },
 {
-type: "input",
-name: "test",
-message: "Please list the project tests"
+    type: "input",
+    name: "test",
+    message: "Please list the project tests"
 },
 {
     type: "input",

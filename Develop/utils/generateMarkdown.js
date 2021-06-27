@@ -30,8 +30,6 @@ ${data.description}
 ${data.installation}
 ## Usage
 ${data.usage}
-## Image of Finished Application
-${data.screenshot}
 ## Licence
 ${data.licence}
 ## Contributors
