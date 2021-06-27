@@ -1,6 +1,5 @@
 
 # **ReadMe Generator Powered by Node.js**
-undefined
 ## Description 
 This project is a generator that can be used to make professional looking README files using Node.js.
 ## Table of contents
