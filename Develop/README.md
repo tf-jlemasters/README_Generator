@@ -12,7 +12,7 @@ This project is a generator that can be used to make professional looking README
 - [Repository Link](#Repository)
 - [GitHub Info](#GitHub) 
 ## Installation
-This project is used in node, using the Inquirer package and Jest package for testing. Simply type "npm i" in your terminal to install the packages.
+This project is used in node, using the Inquirer, Axios, FS, and Jest packages for testing. Simply type "npm i" in your terminal to install the packages.
 ## Usage
 This project can be used to create readme's for any other potential projects, while always having them have a "professional" look.
 ## Licence
