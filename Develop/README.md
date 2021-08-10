@@ -1,7 +1,8 @@
 
-# **ReadMe Generator Powered by Node.js**
+# **README Generator**
+undefined
 ## Description 
-This project is a generator that can be used to make professional looking README files using Node.js.
+This is a node application used to generate readme files
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
@@ -12,19 +13,19 @@ This project is a generator that can be used to make professional looking README
 - [Repository Link](#Repository)
 - [GitHub Info](#GitHub) 
 ## Installation
-This project is used in node, using the Inquirer, Axios, FS, and Jest packages for testing. Simply type "npm i" in your terminal to install the packages.
+Type 'npm i' to install packages, then run 'node index.js' to run generator.
 ## Usage
-This project can be used to create readme's for any other potential projects, while always having them have a "professional" look.
+Used to easily create professional looking README files
 ## Licence
-Node.js
+MIT
 ## Contributors
-Jack LeMasters
+Jackson LeMasters
 ## Test
-Jest
+
 ## Repository
-- [Project Repo](https://github.com/jacklemasters/README_Generator)
+- [Project Repo](github.com/jacklemasters/README_Generator)
 ## GitHub
 ![Image of me](https://avatars.githubusercontent.com/u/82251556?v=4)
-- Jack LeMasters
+- Jackson LeMasters
 - [GitHub Profile](https://github.com/jacklemasters)
-- jacksonlemasters@outlook.com
+- <null>
